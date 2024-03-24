@@ -28,14 +28,15 @@
   <p><b> Etc & Tools </b></p>
   <img src="https://img.shields.io/badge/JWT-48d1cc?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-ff6347?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/Mockito-66cdaa?style=for-the-badge&logo=mocha&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/github-696969?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/JUnit5-ff6347?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+
   <br>
   <p><b> Experience </b></p>
   <img src="https://img.shields.io/badge/thymeleaf-9acd32?style=for-the-badge&logo=thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/mybatis-c0c0c0?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/mybatis-c0c0c0?style=for-the-badge&logo=bricks&logoColor=white">
 
 </div>
 
