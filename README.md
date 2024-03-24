@@ -7,8 +7,9 @@
 <br>
 <div align="center">
   <h3> 💡Skills💡 </h3>
+  
   <p><b> 📖Language & Framework </b></p>
-  <img src="https://img.shields.io/badge/Java-ff6347?style=for-the-badge&logo=000000&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ff6347?style=for-the-badge&logo=codersrank&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-9acd329?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/gradle-778899?style=for-the-badge&logo=gradle&logoColor=white">
   <br>
