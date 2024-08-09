@@ -3,6 +3,7 @@
   <h3>Back-End Developer _ RYU HYUNSIK</h3>
   <p><b>📧contact :</b> happyhsryu@gmail.com</p>
   <p><b>🪄Tech-Blog :</b> <a href="https://innovation123.tistory.com">https://innovation123.tistory.com</a></p>
+  <p><b>GitLab: </b><a href="https://gitlab.com/happyhsryu">https://gitlab.com/happyhsryu</a></p>
 </div>
 <br>
 <div align="center">
