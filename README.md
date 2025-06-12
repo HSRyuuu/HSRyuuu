@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/gradle-778899?style=for-the-badge&logo=gradle&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Spring data JPA-66cdaa?style=for-the-badge&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring data JPA-66cdaa?style=for-the-badge&logo=amazondocumentdb&logoColor=white">
+  <img src="https://img.shields.io/badge/Query DSL-00A4DE?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-9acd32?style=for-the-badge&logo=springsecurity&logoColor=white">
   <p><b> 🛢️DataBase </b></p>
   <img src="https://img.shields.io/badge/Maria DB-b0c4de?style=for-the-badge&logo=mariadb&logoColor=white">
