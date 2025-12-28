@@ -1,45 +1,65 @@
-<div align=center>
-  <h3>Hello! 🖐</h3>
-  <h3>Back-End Developer _ RYU HYUNSIK</h3>
-  <p><b>📧contact :</b> happyhsryu@gmail.com</p>
-  <p><b>🪄Tech-Blog :</b> <a href="https://innovation123.tistory.com">https://innovation123.tistory.com</a></p>
-  <p><b>GitLab: </b><a href="https://gitlab.com/happyhsryu">https://gitlab.com/happyhsryu</a></p>
-</div>
-<br>
 <div align="center">
-  <h3> 💡Skills💡 </h3>
-  
-  <p><b> 📖Language & Framework </b></p>
-  <img src="https://img.shields.io/badge/Java-ff6347?style=for-the-badge&logo=codersrank&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-9acd329?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/gradle-778899?style=for-the-badge&logo=gradle&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Spring data JPA-66cdaa?style=for-the-badge&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/Query DSL-00A4DE?style=for-the-badge&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Security-9acd32?style=for-the-badge&logo=springsecurity&logoColor=white">
-  <p><b> 🛢️DataBase </b></p>
-  <img src="https://img.shields.io/badge/Maria DB-b0c4de?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-ff0000?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-006400?style=for-the-badge&logo=mongodb&logoColor=white">
-  <br>
-  <p><b> 🖥️DevOps </b></p>
-  <img src="https://img.shields.io/badge/aws ec2-ff8c00?style=for-the-badge&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/aws s3-ff4500?style=for-the-badge&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/ubuntu-ff7f50?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <br>
-  <p><b> Etc & Tools </b></p>
-  <img src="https://img.shields.io/badge/JWT-48d1cc?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-  <img src="https://img.shields.io/badge/JUnit5-ff6347?style=for-the-badge&logo=junit5&logoColor=white">
-  <img src="https://img.shields.io/badge/Mockito-66cdaa?style=for-the-badge&logo=mocha&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/github-696969?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 
-  <br>
-  <p><b> Experience </b></p>
-  <img src="https://img.shields.io/badge/thymeleaf-9acd32?style=for-the-badge&logo=thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/mybatis-c0c0c0?style=for-the-badge&logo=bricks&logoColor=white">
+# Hello, I'm Ryuhyunsik! 👋
+
+### 🚀 Back-End Developer pushing the boundaries of Scalability & Efficiency
+
+<p align="center">
+  <a href="mailto:happyhsryu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://innovation123.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech--Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog"></a>
+  <a href="https://gitlab.com/happyhsryu" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="100"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+      <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white">
+      <img src="https://img.shields.io/badge/QueryDSL-00A4DE?style=flat-square&logo=hibernate&logoColor=white">
+      <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=apache&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=happyhsryu&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyhsryu&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Langs" />
+</p>
 
 </div>
-
