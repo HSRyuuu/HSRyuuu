@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:happyhsryu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://innovation123.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech--Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog"></a>
-  <a href="https://gitlab.com/happyhsryu" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
 </p>
 
 ---
