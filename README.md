@@ -7,7 +7,6 @@
 
 | Blog | [innovation123.tistory.com](https://innovation123.tistory.com)  |
 |:---:|:---|
-| GitHub | [github.com/HSRyuuu](https://github.com/HSRyuuu) |
 | Email | happyhsryu@gmail.com |
 
 </div>
